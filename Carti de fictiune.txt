@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Carti de fictiune</title>
+<link rel="shortcut icon" type="image/jpg" href="https://scontent.fsbz1-2.fna.fbcdn.net/v/t1.6435-9/188317272_838730223398982_3527433680468833310_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=730e14&_nc_ohc=kE6s82tO44AAX_iC64G&_nc_ht=scontent.fsbz1-2.fna&oh=00_AfCbcz8Rfby_QibY9AVKl3p7YjljwcuZkF_txNl2x-2lFw&oe=6464CE9F"/>
+</head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<body style="background-color: LightSteelBlue;">
+<script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.topnav {
+  overflow: hidden;
+  background-color: MidnightBlue;
+}
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 20px 131px;
+  text-decoration: none;
+  font-size: 20px;
+}
+.topnav a:hover {
+  background-color: LightCyan;
+  color: black;
+}
+.topnav a.active {
+  background-color: black;
+  color: white;
+}
+.carte {
+  background-color: PowderBlue;
+  color: black;
+  padding: 8px;
+} 
+.categorie {
+  background-color: MidnightBlue;
+  color: LightCyan;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 4px;
+  text-align: center;
+}
+</style>
+<body>
+
+<div class="topnav">
+  <a href="file:///C:/Users/Georgiana%20Letitia/Desktop/paginaprincipala.html">Pagina principala</a>
+  <a href="file:///C:/Users/Georgiana%20Letitia/Desktop/non-fictiune.html">Carti de non-fictiune</a>
+  <a class="active" href="file:///C:/Users/Georgiana%20Letitia/Desktop/fictiune.html">Carti de fictiune</a>
+</div>
+
+<div class="categorie">
+<h2>Carti de fictiune</h2>
+</div>
+
+<h2 class="carte">1. Notre-Dame de Paris - Victor Hugo</h2>
+<img src="https://cdn.dc5.ro/img-prod/79511622-0-240.jpeg" width="240" height="360" alt="Notre-Dame de Paris - Victor Hugo">
+<p>
+As avea atat de multe de spus despre cartea aceasta incat nici nu stiu cu ce sa incep! Am amanat-o foarte mult timp datorita numarului mare de pagini (700 avand editia pe care am citit-o eu), dar si a descrierii care auzisem ca e dificil de procesat si foarte multa... Multa, multa... Multa rabdare. Culmea, fix descrierea aceasta mi-a placut cel mai mult... Atat de ampla si absolut superba.<br>
+Povestea m-a atins si ea foarte tare, am rezonat mult cu personajele conturate si descrise, de asemenea, impecabil. "Notre-Dame de Paris este povestea unei tinere, Esmeralda, care danseaza seducator alaturi de caprita ei, Djali, in fata Catedralei Notre-Dame, cea mai inalta constructie a Parisului medieval. Incalcand juramintele sfinte, arhidiaconul, Claude Frollo, se indragosteste de ea si incearca sa o seduca. Este salvata de clopotarul catedralei, diformul Quasimodo, urmarita de politie si condamnata la moarte." Oh, cat de bine este subliniata conditia unei fiinte nenorocite si nefericite intreaga viata, cu un aspect exterior infiorator, dar cu dorinta si bunatatea de a o salva pe biata tanara tiganca nevinovata de la spanzuratoare. Finalul este atat de tragic si de impresionant, iar Victor Hugo reuseste sa imbine perfect maretia si arhitectura Catedralei Notre-Dame cu tot contextul povestii, creand un roman gotic superb.<br>
+Mi-e greu sa spun despre o singura carte ca e preferata, dar aceasta cu siguranta este una dintre "cele mai preferate" si cele mai bune pe care le-am citit. 
+<ul><em>"-E Quasimodo, clopotarul! E Quasimodo, cocosatul de la Notre-Dame! Quasimodo, chiorul! Quasimodo, schiopul! Bravo, bravo!<br>
+     E lesne de vazut ca bietul om avea porecle din belsug.<br>
+     -Feriti-va, femei insarcinate! strigara studentii.<br>
+     -Sau femei care vreti sa ramaneti grele! adauga Johannes.<br>
+     Femeile, intr-adevar, isi acoperira fata.<br>
+     -Oh, maimutoi pocit! exclama una.<br>
+     -E la fel de rau pe cat e de slut, spuse alta.<br>
+     -E diavolul, adauga o a treia.<br>
+     -Eu am ghinionul sa locuiesc langa Notre-Dame; si toata noaptea il aud umbland pe streasina.<br>
+     -Ca pisicile.<br>
+     -Cand il cauti, e pe acoperisurile noastre.<br>
+     -Face farmece si ni le-arunca pe cos.<br>
+     -Ieri-seara a venit sa se strambe la gura podului meu. Credeam ca e un om. Si mi-a fost o frica!<br>
+     -Sunt sigura ca se duce la sabat. Odata a lasat o matura pe acoperisul meu.<br>
+     -Oh, pocita mutra de cocosat!<br>
+     -Oh, suflet ticalos!<br>
+     -Brrr!<br>
+     Barbatii, dimpotriva, erau incantati si aplaudau.<br>
+     Quasimodo, motivul zarvei, statea neclintit in usa capelei, sumbru si grav, lasandu-se admirat."</em></ul>
+</p>
+
+<h2 class="carte">2. 1984 - George Orwell</h2>
+<img src="https://cdn.dc5.ro/img-prod/361837935-0-240.jpeg" width="240" height="360" alt="1984 - George Orwell">
+<p>
+Probabil cea mai cunoscuta distopie scrisa vreodata, care prezinta incercarile lui Winston Smith de a intelege un sistem totalitar evoluat, in care autoritatile sunt motivate de setea de putere, se impun prin frica si sunt interesate in mod deosebit de controlul tuturor trairilor afective. Detaliile pe care mi le amintesc foarte bine sunt omniprezenta Fratelui cel Mare, conducatorul simbolic al Partidului, si regulile care impun ascultare absoluta. De asemenea, este surprinsa si relatia dintre protagonist si o colega de serviciu, in incercarea de a evada din contextul apocaliptic al vremii, dar si relatia cu sinele care este compromisa din cauza lumii totalitare in care traieste. </p>
+<ul><strong>"In momente de criza, o persoana nu lupta contra unui inamic extern, dar mereu lupta impotriva propriei sale fiinte."</strong></ul>
+
+<h2 class="carte">3. Hotul de carti - Markus Zusak</h2>
+<img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1400239552i/13197222.jpg" width="240" height="360" alt="Hotul de carti - Markus Zusak">
+<p>
+Este un roman de fictiune istorica, plasat in Germania nazista in timpul celui de-al Doilea Razboi Mondial. Are in centru povestea unei fetite orfane, Liesel, care descopera o pasiune pentru carti, una dintre putinele lucruri care puteau aduce bucurie la acea vreme. Stilul de scriere in sine este foarte interesant, cu atat mai mult faptul ca personajul-narator este Moartea. Sincronizarea evenimentelor din lumea intima a lui Liesel-relatia cu tatal ei, relatia mai poticnita cu mama, prietenii, scoala, primele carti furate-cu lumea care se prabuseste sub delirul razboiului si sub acela al lui Hitler, fac ca povestea sa fie atat emotionanta, cat si educativa si revelatoare pentru capriciile istoriei.
+</p>
+
+<h2 class="carte">4. Zece negri mititei - Ahatha Christie</h2>
+<img src="https://cdn.litera.ro/pub/media/mf_webp/jpg/media/catalog/product/cache/1e07343a9a102fb3a3e7439e492825f8/z/e/zece_negri_mititei-.webp" width="240" height="360" alt="Zece negri mititei - Ahatha Christie">
+<p>
+Imi amintesc ca a fost una dintre primele carti pe care le-am citit si pe care le-am indragit cu adevarat. Au durat 3 zile sa o termin, deci actiunea m-a prins si nu am mai putut sa o las din mana. :) Povestea incepe cu o poezie-poezie ce va deveni "harta" romanului, toate intamplarile gravitand in jurul ei. Este vorba despre 10 oameni, straini unii fata de altii, care sunt invitati intr-o casa aflata pe o insula, a asa-zisului expeditor al unei scrisori pe care fiecare dintre ei o primeste. Ajungand acolo, ei constata de expeditorul este, de fapt, o persoana inexistenta si ca sunt blocati in pustietate. Exact ca in poezie, cei "10 negri mititei" mor unul cate unul, iar scopul lor este de a descoperi care dintre ei este ucigasul. Finalul a fost neasteptat, cel putin pentru mine, iar Agatha Christie a devenit una dintre autoarele mele preferate. Recomand, de asemenea, si vizionarea mini-serialului, care are 3 episoade si care a aparut in 2015. 
+</p>
+
+<h2 class="carte">5. Jocurile foamei, Revolta, Sfidarea, Balada serpilor si a pasarilor cantatoare - Suzanne Collins</h2>
+<img src="https://s13emagst.akamaized.net/products/33743/33742826/images/res_7ec49bb8cdf5f21732876d44ce55720a.jpg?width=450&height=450&hash=F31983C8C24C29350FB009E0F785232D" width="320" height="360" alt="Jocurile foamei, Revolta, Sfidarea, Balada serpilor si a pasarilor cantatoare - Suzanne Collins">
+<p>
+Cred ca este cea mai draga serie pe care am citit-o si care m-a fascinat intr-un mod atat de deosebit. Actiunea este plasata intr-un viitor postapocaliptic, peste ruinele unui continent cunoscut odata ca America de Nord, unde se intinde natiunea Panem. Ca simbol al puterii Capitoliului asupra celor douasprezece districte, in fiecare an este organizat un concurs sadic si sangeros, Jocurile Foamei. Povestea continua intr-un mod spectaculos, iar "Balada serpilor si a pasarilor cantatoare" vine ca un roman situat temporal inaintea intregii serii. Mi-au placut foarte mult filmele, insa detaliile si intamplarile asezate pe hartie mi-au antrenat imaginatia si mi-au oferit o experienta cu mult mai speciala.
+</p>
+
+<h2 class="carte">6. Coliba Unchiului Tom - Harriet Beecher Stowe</h2>
+<img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1360509681i/17345664.jpg" width="240" height="360" alt="Coliba Unchiului Tom - Harriet Beecher Stowe">
+<p>
+Finalul aproape m-a facut sa plang... "Coliba unchiului Tom" este o poveste moralizatoare despre discriminarea, rasismul si sclavia predominante in SUA secolului al XIX-lea. M-a impresionat profund, mai ales asocierea cu religia si gandirea oamenilor din acea perioada; cruzimea cu care erau tratati sclavii, priviti ca niste marfuri, ca niste obiecte, lipsiti de orice drepturi si libertati. Intr-o astfel de lume, unchiul Tom apare ca un erou care schimba vietile nenumaratelor "fiinte asuprite si nenorocite", dand dovada de bunatate, credinta si dragoste fata de aproapele atat de greu de manifestat mai ales in astfel de imprejurari. <br>
+Desi am citit-o destul de greu pentru ca nu am avut foarte mult timp, a fost o lectura usoara si placuta, dar foarte trista, care m-a marcat si mi-a trezit multe emotii pe parcurs. <br>
+(Multumiri matusii mele care m-a determinat sa o citesc.&#128513;) <br>
+<em>&#10145;"Autoarea n-a putut reda decat o umbra, o palida imagine a suferintei si deznadejdii, care frang in aceasta clipa mii de inimi, imprastie mii de familii, impingand o rasa sensibila si lipsita de aparare la nebunie si deznadejde. Exista inca oameni care cunosc mame ce au fost impinse de acest blestemat negot sa-si ucida copiii, cautand ele insele in moarte un refugiu impotriva tuturor acestor grozavii mai de temut decat moartea. Nu poate fi scrisa, povestita sau conceputa nicio tragedie care sa egaleze infricosatoarea realitate a scenelor ce se petrec zilnic si in fiecare clipa pe tarmurile noastre, la adapostul legilor americane si a crucii lui Cristos!"</em>
+</p>
+
+<h2 class="carte">7. Biblioteca de la miezul noptii - Matt Haig</h2>
+<img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1599891464i/55306054.jpg" width="240" height="360" alt="Biblioteca de la miezul noptii - Matt Haig">
+<p>
+O carte superba!!! M-a prins inca de la inceput si am citit-o foarte usor. Ideea unei biblioteci care se afla intre viata si moarte si care ofera cate o versiune diferita a vietii prin fiecare carte mi se pare foarte ingenioasa. Doar ca in final, inveti sa accepti si sa iei lucrurile asa cum sunt. Bune si rele, bucurii si regrete, in asta consta viata. Suntem atat de greu de multumit si mereu ne intrebam cum ar fi fost viata noastra daca am fi luat o alta decizie... Cartea de fata nu ne raspunde la intrebare, dar ne ofera o alta perspectiva asupra lucrurilor. Povestea te tine acolo, iar finalul, dupa cum am zis, e superb.</p>
+<ul><strong>"[...] Dar adevarata problema nu sunt vietile pe care regretam ca nu le-am trait, ci regretul insusi. Regretul e cel care ne face sa ne simtim inutili, sa ne ofilim si sa avem senzatia ca suntem atat propriul dusman, cat si al celor din jur. Nu putem preciza daca vreuna dintre celelalte versiuni ar fi fost mai buna sau mai rea. Vietile acelea exista, e adevarat, dar si tu existi si tocmai asupra acestei existente trebuie sa ne concentram. [...] Nu e nevoie sa fim decat o singura persoana. Nu e nevoie sa incercam decat o singura existenta. Nu trebuie sa facem totul ca sa fim totul, fiindca suntem deja infiniti. Cat suntem in viata, dispunem de un viitor cu posibilitati multiple."</strong></ul>
+
+<h2 class="carte">8. Gambitul Damei - Walter Tevis</h2>
+<img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1609148522i/56444014.jpg" width="240" height="360" alt="Gambitul Damei - Walter Tevis">
+<p>
+Intai am vazut serialul, la putin timp dupa aparitie, iar povestea m-a prins atat de tare incat mi-am dorit sa citesc si cartea. Nu m-a dezamagit, cu atat mai mult. A fost placut sa o citesc, iar firul narativ a fost foarte usor de urmarit. Recomand atat cartea, cat si serialul, insa in ordine opusa celei adoptate de mine.&#128513;
+</p>
+
+<h2 class="carte">9. Sfaturile unui diavol batran catre unul mai tanar - C.S.Lewis</h2>
+<img src="https://humanitas.ro/assets/images/products/Sfaturile-unui-diavol-batran-2021.jpg" width="240" height="360" alt="Sfaturile unui diavol batran catre unul mai tanar - C.S.Lewis">
+<p>
+C.S.Lewis surprinde cititorul prin abordarea subiectelor moralei crestine din perspectiva diavolilor. Personajul central al romanului este Sfredelin, un diavol expert in castigarea sufletelor oamenilor, care ii ofera sfaturi nepotului sau, Amarel-diavol tanar, proaspat absolvent al Colegiului de Pregatire al Tinerilor Ispititori. Avand o experienta bogata, unchiul ii explica nepotului cele mai bune tehnici de a ispiti oamenii la fapte rele. Pe langa umorul fin cu care este construit acest roman, psihologia sta, de asemenea, la baza lui. Viata in sine este o continua lupta dintre bine si rau, presarata cu tentatii si capcane, iar autorul il aduce pe Dumnezeu in imediata noastra vecinatate, si pe diavol si mai aproape. Este o carte interesanta mai ales pentru perspectiva pe care o abordeaza si umorul cu care sunt scrise scrisorile unchiului catre nepot, dar este, cu atat mai mult, o carte care te face sa gandesti.
+</p>
+
+<h2 class="carte">10. Pacienta tacuta - Alex Michaelides</h2>
+<img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1586807396i/45152448.jpg" width="240" height="360" alt="Pacienta tacuta - Alex Michaelides">
+<p>
+Asemenea filmelor si serialelor, nu ma simt atrasa de o carte in momentul in care este mult prea mediatizata si laudata. Mi se pare ca isi pierde foarte mult farmecul si prefer sa astept sa treaca o perioada pana sa ii pot oferi o sansa. Cartea de fata s-a bucurat de o imensa popularitate in mediul online, si abia dupa ce am citit-o si eu mi-am dat seama de ce. Inceputul a fost promitator, povestea a fost captivanta si capitolele relativ scurte si usoare de parcurs. Cand mai aveam 10 pagini pana sa o termin, nu intelegeam ce poate sa se mai intample pentru a justifica aprecierea pe care a primit-o, insa finalul a venit atat de surprinzator, in momentul in care ma asteptam cel mai putin. &#128516; Thriller-ul psihologic perfect, care m-a marcat si la care mi-a ramas gandul o buna perioada de timp.
+</p>
+
+<h2 class="carte">11. Frankenstein - Mary Shelley</h2>
+<img src="https://static.editura-art.ro/image/6272/frankenstein-sau-prometeul-modern-mary-shelley-s-cover_big_fixed.jpg" width="280" height="360" alt="Frankenstein - Mary Shelley">
+<p>
+Clasic al genului horror, scris de Mary Shelley, in 1818, surprinde idei bine conturate despre existenta si moarte, prin viata tanarului Victor Frankenstein, care reuseste sa creeze, artificial, o fiinta umana.<br>
+Pe langa marele fel in care arata editia aniversara de la Editura Art, cea pe care am citit-o eu, povestea m-a surprins si mi-a placut mai mult decat ma asteptam. Nu stiu de ce, dar auzind mereu de aceasta carte, mi-o imaginam cu totul altfel. Ca sa nu mai zic ca aveam impresia ca Frankenstein e numele monstrului, cand de fapt este numele creatorului. &#128517;<br>
+Mi-a placut mult felul in care este construit romanul, ideile si perceptiile asupra mortii, asupra relatiei dintre creator si creatie. Finalul este unul foarte trist, dar cumva frumos, pentru ca in ciuda faptului ca monstrul a pricinuit atata durere si suferinta in viata creatorului, tot monstrul a ramas cel cu care am rezonat cel mai mult; iar in final, tot de partea lui am ramas.
+</p>
+
+<h2 class="carte">12. Dracula - Bram Stocker</h2>
+<img src="https://static.cartepedia.ro/image/227149/dracula-3-produs_imagine_max_width.webp" width="280" height="360" alt="12. Dracula - Bram Stocker">
+<p>
+Din nou, cartea mi s-a parut mult mai frumoasa odata cu ilustratiile editiei de la Editura Art, insa si povestea in sine a fost pe gustul meu. Este un roman fascinant, scris sub forma unui jurnal, evenimentele avand loc an Transilvania, loc considerat misterios chiar si în zilele noastre. Johnathan Harker isi expune gandurile si intamplarile pas cu pas, in timp ce vedem cum o creatura a intunericului incepe sa transforme si alti oameni in ceea ce este ea. Contele-vampir a devenit un simbol in lumea populara, prin mitul lui Dracula si toata industria care s-a dezvoltat in jurul lui.
+</p>
+
+
+<h2 class="carte">13. Portetul lui Dorian Gray - Oscar Wilde</h2>
+<img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1423147535i/24841558.jpg" width="240" height="360" alt="Portetul lui Dorian Gray - Oscar Wilde">
+<p>
+Filmul care mi s-a parul foarte bine realizat m-a determinat sa citesc si cartea. Perspectiva duce intr-o zona gotica, cu intamplari sumbre si un final tragic. Personajul principal este Dorian Gray, un tanar de o frumusete complesitoare, iar pictorul Basil Hallward ii dedica un tablou, care va deveni o oglinda a sufletului pentru Dorian. Deoarece isi doreste sa ramana cu acelasi aspect fizic tot restul vietii si sa dobandeasca nemurirea, tanarul va face un pact si isi va vinde sufletul. Astfel, viata lui se transforma intr-o serie de pacate, urmarile fiind vizibile asupra portretului de la care a inceput totul. Consider ca este un roman cu rol moralizator, bine construit si cu o analiza detaliata asupra decaderii "muzei" acestuia.
+</p>
+<p>
+De asemenea, exista si un serial care inglobeaza povestile gotice ale literaturii clasice (Frankenstein, Dracula, Portretul lui Dorian Gray) si nu numai, care se numeste <a href="https://www.imdb.com/title/tt2628232/"><em>Penny Dreadful</em></a> (2014-2016). Cu toate ca este destul de infricosator, este si foarte bine gandit si realizat. Eu l-am vizionat dupa ce am citit cele trei carti si mi-a placut cu atat mai mult pentru ca eram deja familiara cu numele personajelor, cu intamplarile si detaliile, lucrurile legandu-se si capatand foarte mult sens. </p>
+<img src="https://m.media-amazon.com/images/M/MV5BMTNiMDBmZWQtZDI4Ni00ZGViLWJlOWMtNTdkODNlMTFkZjc2XkEyXkFqcGdeQXVyOTA3MTMyOTk@._V1_FMjpg_UX1000_.jpg" width="160" height="240" alt="Penny Dreadful">
+
+<h2 class="carte">14. Marele Gatsby - F.Scott Fitsgerald</h2>
+<img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347192494i/8285325.jpg" width="240" height="360" alt="Marele Gatsby - F.Scott Fitsgerald">
+<p>
+Avand in centrul sau ideea marelui vis american, romanul lui F.Scott Fitsgerald descrie interactiunile naratorului cu misteriosul milionar Jay Gatsby si sfarsitul tragic al acestuia. Desi sarac la inceput, Gatz se ambitioneaza sa isi depaseasca conditia de viata si pleaca spre o lume mai buna, unde o va intalni pe Daisy, iubirea vietii lui. Barbatul trece prin mai multe perioade in care ajunge sa le experimenteze pe toate, astfel incat conditia lui sociala sa fie in cele din urma de nasul lui Daisy. Marele Gatsby ne demonstreaza cum iubirea, cu tot ce presupune ea, te poate schimba in cel mai drastic mod, fie in bine sau in rau. <br>
+In plus,  romanul a fost ecranizat in 2013, cu Leonardo Di Caprio in rolul principal, si este o capodopera a cinematografiei care siguranta merita vizionata. &#10145; <a href="https://www.imdb.com/title/tt1343092/"><em>The Great Gatsby</em></a>
+</p>
+
+<h2 class="carte">15. Prin ochii ei - Sarah Pinborough</h2>
+<img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1552940223i/44512745.jpg" width="240" height="360" alt="Prin ochii ei - Sarah Pinborough">
+<p>
+Din nou, ecranizarea m-a determinat sa citesc aceasta carte, a carui final m-a surprins in totalitate. S-a jucat cu mintea mea pana in ultima clipa, creandu-mi pe parcurs banuieli si purtandu-ma pe piste gresite, fara vreun rezultat. Este vorba despre un triunghi amoros si despre o poveste tragica din trecut. Desi nu este genul de carte pe care il citesc in mod obisnuit, este un thriller psihologic foarte bun, iar pentru o intelegere in ansamblu mai buna asupra povestii recomand si serialul. <br>
+&#10145; <a href="https://www.imdb.com/title/tt9698442/"><em>Behind Her Eyes</em></a>
+</p>
+
+<h2 class="carte">16. Cianura pentru un suras - Rodica Ojog-Brasoveanu</h2>
+<img src="https://static.cartepedia.ro/image/228785/cianura-pentru-un-suras-2-produs_imagine_max_width.webp" width="240" height="360" alt="Cianura pentru un suras - Rodica Ojog-Brasoveanu">
+<p>
+Considerata Agatha Christie a Romaniei, Rodica Ojog-Brasoveanu este autoarea care are cele mai multe titluri prezente in biblioteca mea. Stilul ei de scriere mi se pare delicios si simpatic, abordand un umor fin si subiecte pe placul meu: romane politiste. "Cianura pentru un suras" este prima carte din seria care o are in centru pe Melania Lupu, o doamna micuta, inaintata in varsta, care pare sa duca o viata normala alaturi de co-locatarii sai. Lucrurile, insa, nu stau chiar asa. Cand, in urma unei inundatii, cei cinci vecini descopera prezenta a doua tablouri de o valoare considerabila si incep sa isi faca planuri prin care sa se imbogateasca si prin care vor imparti castigul in urma vanzarii tablourilor. Dar, ca in "Zece negri mititei", acestia incep sa moara, unul cate unul, Melania Lupu fiind cea care va aranja lucrurile astfel incat planul lor sa poata fi dus la bun sfarsit. Comicul si finetea cu care sunt construite personajele, precum si prezenta motanului Mirciulica, fac din "Cianura pentru un suras" una dintre cele mai bune scrieri ale literaturii romane citite de mine vreodata.</p>
+<ul><em>"Isi puse toca neagra si imbraca paltonul. Motanul se opri in prag scarpinandu-si trupul arcuit de usa.<br>
+Batrana surase:<br>
+- Nu te-am uitat, Mirciulica. Ti-am lasat in bucatarie provizii. Dupa aceea, va trebui sa te descurci singur. Oberlihtul a ramas deschis... Il lua in brate. Mustatile ii gadilau obrazul. Sopti privind ochii verzi, translucizi, ca niste nasturi de sticla: Noi doi traim o aventura... Pe amandoi ne asteapta necunoscutul.<br>
+Motanul miorlai.<br>
+- Stiu, dragul meu, te plictisesti. Erai obisnuit sa te amuzi la ora asta.<br>
+Il duse in odaia ei si dadu drumul la televizor. Stinse apoi lumina si parasi apartamentul.<br>
+Cocotat pe fotoliul Melaniei Lupu, motanul urmari un film unde Raf Valone suferea pentru o bruna superba cu pometi inalti."</em></ul>
+
+<h2 class="carte">17. Oscar si Tanti Roz - Éric-Emmanuel Schmitt</h2>
+<img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1346409986i/9694407.jpg" width="240" height="360" alt="Oscar si Tanti Roz - Éric-Emmanuel Schmitt">
+<p>
+Oscar are zece ani si traieste intr-un spital. Chiar daca nimeni nu are curajul sa i-o spuna in fata, baiatul, bolnav de leucemie, stie ca va muri, iar razboiul lui impotriva tuturor izbucneste inocent, patimas si deznadajduit. Singura care-i intra in voie este Tanti Roz, o infirmiera batrana, neintrecuta in nascocit povesti moderne, adevarate lectii de viata, in care nici binele, nici raul nu sunt absolute si nimic nu e asa cum pare la prima vedere. Ea ii da copilului ideea sa traiasca fiecare zi ca si cum ar fi zece ani si-l invata sa-i scrie epistole lui Dumnezeu ca sa se simta mai putin singur. Cartea are un final trist, dar si moralizator, deoarece te face sa te gandesti la cat de importanta este fiecare zi din viata ta si te motiveaza să nu mai pierzi timpul cu lucruri sau cu oameni care nu merita sa le acorzi din timpul tau. 
+</p>
+
+<h2 class="carte">18. Anna Karenina - Lev Tolstoi</h2>
+<img src="https://cdn.litera.ro/pub/media/mf_webp/png/media/catalog/product/cache/1e07343a9a102fb3a3e7439e492825f8/a/n/anna_karenina.webp" width="240" height="360" alt="Anna Karenina - Lev Tolstoi">
+<p>
+Un roman in 4 volume, format din peste 1100 de pagini despre care nu stiam absolut nimic pana sa intru in universul creat de Tolstoi. Actiunea este presarata cu evenimente specifice secolului al XIX-lea, infatisand societatea ruseasca in cele mai mici detalii, in special lumea buna cu evenimente mondene si tot ceea ce inseamna aceasta, care aduce in prim plan mai multe povesti de dragoste, unele implinite, altele esuate. Este un roman deosebit de complex, ale carui personaje sunt foarte bine conturate si in care regasim un cadru social atent analizat. Este unanim acceptat ca fiind unul dintre pilonii cei mai inalti ai artei literare. Romanul insista pe necesitatea de a adopta o atitudine ferma pentru a te putea face inteles si pentru ca toata lumea sa iti poata remarca adevarata personalitate. Anna Karenina are o personalitate puternica, pe care o afiseaza inca de la inceput. Are o tarie de caracter remarcabila si care o si ajuta sa depaseasca momentele dificile prin care trece.
+</p>
+
+<h2 class="carte">19. Crima si pedeapsa - Fyodor Dostoievski</h2>
+<img src="https://cdn4.libris.ro/img/pozeprod/59/1000/96/24483487-GIFI.jpg" width="240" height="360" alt="Crima si pedeapsa - Fyodor Dostoievski">
+<p>
+O capodopera a literaturii ruse si universale, "Crima si pedeapsa" are in prim-plan drama lui Raskolnikov, un fost student sarac, care pentru a-si rezolva problemele financiare si pentru a-si demonstra siesi ca este indreptatit sa faca un astfel de gest, pune la cale o crima cumplita. Odata savarsita, protagonistul incepe sa aiba remuscari si sa se imbolnaveasca, aspecte care il vor da de gol mai tarziu. Este o analiza psihologica deosebit de bine detaliata, 718 pagini avand editia pe care am citit-o eu, axandu-se pe conditia umana care se indreapta spre mizerie, pacat, viciu si catre satisfacerea poftelor trupesti mai mult decat a virtutilor sufletesti.<br>
+<ul><em>"N-ai vazut niciodata un fluture langa lampa? Ei bine, <el> se va invarti la nesfarsit in jurul meu, intocmai ca acea insecta in jurul lampii. Libertatea n-are sa-i tihneasca, asculta-ma pe mine; va deveni din ce in ce mai anxios si mai crispat, va trai intr- nesfarsita alarma; daca-i las ragaz suficient, se va purta astfel incat culpabilitatea lui o sa iasa la iveala in toata splendoarea ei, ca doi ori doi fac patru! Se va invarti mereu in jurul meu, descriind cercuri din ce in ce mai stranse, pana cand-buf!-o sa-mi pice drept in bot, iar eu il voi inghiti, lucru foarte, foarte placut-he-he-he! Nu crezi?
+Raskolnikov nu raspunse; nemiscat si palid, il privea cu incordare drept in fata."</em></ul>
+</p>
+
+<h2 class="carte">20. Acolo unde canta racii - Delia Owens</h2>
+<img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1563350560l/49509506.jpg" width="240" height="360" alt="Acolo unde canta racii - Delia Owens">
+<p>
+Inca o carte mult prea laudata care initial nu m-a atras, insa odata cu anuntul aparitiei filmului in al carui rol principal joaca Daisy-Edgar Jones, una dintre actritele mele preferate, am decis sa ii acord o sansa. Din fericire nu m-a dezamagit, ba chiar mi-a placut si subiectul m-a atins foarte mult. Este vorba despre o crima misterioasa, o poveste de dragoste si un trecut dur al unui copil care a invatat sa supravietuiasca si sa se descurce de unul singur. Desi are usoare accente ale unui roman politist, "Acolo unde canta racii" nu straluceste datorita lor, ci datorita sensibilitatii si duiosiei cu care este scrisa. Ceea ce cucereste cititorul cu adevarat este delicatetea cu care patrunde in lumea interioara a personajului principal, Kya, felul in care devine martorul trairilor si sentimentelor ei, felul in care este prezentata suferinta pe care o aduc abandonul, respingerea, izolarea. Bineinteles ca am vazut si filmul care s-a ridicat la nivelul asteptarilor, iar odata cu el am ascultat de nenumarate ori melodia lui Taylor Swift, <a href="https://www.youtube.com/watch?v=egxyRSb_XtI"><em>Carolina</em></a>", care ma duce de fiecare data cu gandul la povestea Kyei.<br>
+&#10145; <a href="https://www.imdb.com/title/tt9411972/"><em>Where The Crawdads Sing</em></a>
+</p>
+
+<h2 class="carte">21. Adam si Eva - Liviu Rebreanu</h2>
+<img src="https://cdn.dc5.ro/img-prod/553289359-0-240.jpeg" width="240" height="360" alt="Adam si Eva - Liviu Rebreanu">
+<p>
+Nu este primul roman al lui Liviu Rebreanu pe care il citesc, astfel ca eram deja putin familiara cu stilul sau de scriere, insa "Adam si Eva" m-a surprins mai mult decat m-as fi asteptat. Existenta sufletelor pereche, incapacitatea de a nega destinul si esecul in iubire sunt doar cateva dintre temele romanului. Ne sunt prezentate 7 povesti din cadre si culturi diferite, unde protagonistii sunt aceeiasi, in fiecare dintre ele intervenind ceva care le va face imposibila implinirea sentimentelor de dragoste. Nu poate trece neobservat efortul documentarii, claritatea prozei, originalitatea istorica a ideii in literatura romana. Consider ca este una dintre cele mai inovative scrieri, cu un subiect care te face sa gandesti si cu detalii pur si simplu superbe!</p><ul><strong>"Moartea nu poate fi sfarsitul sfarsitului. Ar fi o absurditate. Atunci pentru ce ne-am nascut! Intamplarea oarba nu explica un necunoscut. Cel mai mult complica. Dincolo de moarte trebuie sa fie ceva, precum si inainte de nastere trebuie sa fi fost ceva. Sufletul nu poate incepe si nici sfarsi intr-o intamplatoare viata pamanteasca.”
+</strong></ul>
+
+<h2 class="carte">22. Piranesi - Susanna Clarke</h2>
+<img src="https://nemira.ro/media/catalog/product/cache/1/image/650x/040ec09b1e35df139433887a97daa66f/s/u/susanna-clarke---piranesi---c1.jpg" width="240" height="360" alt="Piranesi - Susanna Clarke">
+<p>
+Cred ca e cea mai "ciudata" (intr-un sens bun) carte pe care am citit-o. Recunosc ca m-a atras destul de mult aspectul cartii, de data asta judecand cartea dupa coperta :), insa nici povestea nu m-a dezamagit. Este vorba despre viata lui Piranesi si explorarea casei care seamana cu un labirint: are camere infinite, coridoare nesfarsite, peretii sunt ticsiti de mii si mii de statui, toate diferite. Camerele se inunda sub valurile unui ocean, si exista un strain care ascunde un secret intunecat, ale carui taine Piranesi incearca sa le descopere. Este o poveste fantastica, misterioasa, presarata cu aventura si cu analiza conditiei umane in situatiile critice. M-au fascinat ideile si subiectul rareori intalnit intr-o carte.</p>
+<ul><strong>"Poate ca asa este atunci cand traiesti alaturi de alti oameni. Poate chiar oamenii care iti plac si pe care ii admiri enorm te pot face sa vezi Lumea in feluri pe care tu ai prefera sa n-o faci."</strong></ul>
+
+<h2 class="carte">23. Rebecca - Daphne du Maurier</h2>
+<img src="https://cdn.litera.ro/pub/media/mf_webp/png/media/catalog/product/cache/1e07343a9a102fb3a3e7439e492825f8/r/e/rebecca.webp" width="240" height="360" alt="Rebecca - Daphne du Maurier">
+<p>Intr-o calatorie la Monte Carlo, in calitate de domnisoara de companie a unei doamne din lumea buna, protagonista al carei nume nu ne este dezvaluit, se indragosteste de Maxim de Winter, un vaduv deosebit de chipes. Desi cererea lui in casatorie o ia prin surprindere, ea accepta fericita sa se marite cu el. Dar cand ajung la Manderley, mosia sotului sau, aflata pe coasta Cornwall-ului, Maxim pare total schimbat, iar tanara sotie este inspaimantata. Naiva si lipsita de experienta, fara prieteni in conacul izolat, isi da seama ca abia îl cunoaste. In plus, in fiecare colt al fiecarei odai se afla inca prezenta amintirea primei sale sotii, Rebecca. Este un roman clasic, gotic, care pune in lumina analiza psihologica a personajelor sale si imprevizibilitatea actiunilor lor. De asemenea, filmul mi s-a parut destul de bun si il recomand, cu toate ca detaliile din carte sunt inegalabile. <br>
+&#10145; <a href="https://www.imdb.com/title/tt2235695/"><em>Rebecca</em></a>
+</p>
+
+</body>
+</html>
+
+
